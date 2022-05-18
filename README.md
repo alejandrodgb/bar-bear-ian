@@ -1,2 +1,3 @@
 # bar-bear-ian
-Bear classifier ;)
+
+Your best friend in the wild!
